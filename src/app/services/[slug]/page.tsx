@@ -3,6 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Footer from "../../components/Footer";
 
+export const instant = false;
+
 const services = [
   {
     slug: "e-commerce-solutions",

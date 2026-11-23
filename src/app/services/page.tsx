@@ -287,7 +287,7 @@ function Footer() {
       <div className="border-t border-white/20">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 px-6 py-6 text-center text-xs text-white/65 sm:px-10 md:flex-row">
           <p>
-            © {new Date().getFullYear()} Nivora Digital. All Rights Reserved.
+           © 2026 Nivora Digital. All Rights Reserved.
           </p>
 
           <Link
