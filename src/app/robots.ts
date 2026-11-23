@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.nivoradigital.com/sitemap.xml",
+    sitemap: "https://nivora-digital-six.vercel.app/sitemap.xml",
   };
 }
